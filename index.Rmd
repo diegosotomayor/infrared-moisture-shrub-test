@@ -21,5 +21,8 @@ A Seek Compact Thermal Imager for iOS was tested in desert ecosystems in conjunc
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+#load libraries ####
+library(ripa)
+
 ```
 
